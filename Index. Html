@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chand Tara Bazar</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+</head>
+<body>
+
+<header>
+
+<div class="logo">
+🌙 Chand Tara Bazar
+</div>
+
+<nav>
+
+<a href="index.html">Home</a>
+
+<a href="about.html">About</a>
+
+<a href="updates.html">Updates</a>
+
+<a href="faq.html">FAQ</a>
+
+<a href="contact.html">Contact</a>
+
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h1>Welcome to Chand Tara Bazar</h1>
+
+<p>
+
+Stay updated with the latest announcements, notices, and information in one place.
+
+</p>
+
+<a href="updates.html" class="btn">
+
+View Updates
+
+</a>
+
+</section>
+
+
+<section class="cards">
+
+<div class="card">
+
+<h2>Latest Updates</h2>
+
+<p>
+
+Read the newest announcements and important information.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>Fast Access</h2>
+
+<p>
+
+Simple interface designed for mobile, tablet, and desktop devices.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>Secure</h2>
+
+<p>
+
+Modern design focused on speed and usability.
+
+</p>
+
+</div>
+
+</section>
+
+
+<footer>
+
+<p>
+
+© 2026 Chand Tara Bazar • All Rights Reserved
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
